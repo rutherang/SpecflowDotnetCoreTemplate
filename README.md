@@ -4,4 +4,4 @@ Specflow dotnet core skeleton project with different testing framework MSTest 2,
 1. dotnet restore
 2. dotnet build
 3. dotnet test
-..* use parallel.runsettings if you want to run test in parallel
+  - use parallel.runsettings if you want to run test in parallel
